@@ -176,10 +176,10 @@ window_rules:
     - commands: ["move --workspace 6", "focus --workspace 6"]
       match:
         - window_process: { equals: "DiscordPTB" }
+        - window_process: { equals: "Discord" }
 
     - commands: ["move --workspace 7", "focus --workspace 7"]
       match:
-        - window_title: { equals: "Settings" }
         - window_title: { equals: "Microsoft Store" }
         - window_title: { equals: "" }
 
