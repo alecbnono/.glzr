@@ -167,6 +167,7 @@ window_rules:
     - commands: ["move --workspace 4", "focus --workspace 4"]
       match:
         - window_process: { equals: "explorer" }
+        - window_title: { equals: "" }
 
     - commands: ["move --workspace 5", "focus --workspace 5"]
       match:
