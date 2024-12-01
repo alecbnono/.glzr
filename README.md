@@ -2,5 +2,4 @@
 
 Heavily inspired by
 
-ChrisTitusTech/glazewm
-Ajay-056/GlazeWM-Config
+ChrisTitusTech/glazewm & Ajay-056/GlazeWM-Config
