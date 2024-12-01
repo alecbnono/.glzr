@@ -174,7 +174,7 @@ window_rules:
 
     - commands: ["move --workspace 6", "focus --workspace 6"]
       match:
-        - window_process: { equals: "discord" }
+        - window_process: { equals: "DiscordPTB" }
 
     - commands: ["move --workspace 7", "focus --workspace 7"]
       match:
