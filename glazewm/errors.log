@@ -1,2 +1,12 @@
 [2m2024-12-02T06:30:53.788981Z[0m [31mERROR[0m [2mglazewm::common::commands::shell_exec[0m[2m:[0m [3merr_message[0m[2m=[0m"Failed to execute 'firefox'.\n\nError: The operation was canceled by the user. (0x800704C7)"
 [2m2024-12-02T06:30:59.238589Z[0m [31mERROR[0m [2mglazewm::common::commands::shell_exec[0m[2m:[0m [3merr_message[0m[2m=[0m"Failed to execute 'firefox'.\n\nError: The operation was canceled by the user. (0x800704C7)"
+[2m2024-12-05T02:50:00.390751Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m keybindings[15].commands: unrecognized subcommand
+ at line 245 column 15
+[2m2024-12-05T02:50:05.282044Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m keybindings[15].commands: unrecognized subcommand
+ at line 245 column 15
+[2m2024-12-05T02:50:58.904836Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m keybindings[15].commands: unrecognized subcommand
+ at line 245 column 15
+[2m2024-12-05T02:51:53.786790Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m keybindings[15].commands: unrecognized subcommand
+ at line 243 column 15
+[2m2024-12-05T02:52:23.049562Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m keybindings[15].commands: unrecognized subcommand
+ at line 243 column 15
