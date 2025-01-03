@@ -23,7 +23,7 @@ body,
 
 @keyframes flash {
     from {
-        opacity: 1.0;
+        opacity: 1;
     }
 
     50% {
@@ -31,7 +31,7 @@ body,
     }
 
     to {
-        opacity: 1.0;
+        opacity: 1;
     }
 }
 
@@ -102,10 +102,9 @@ body,
 .btn1 {
     border: none;
     background: transparent;
-    color: violet;
+    color: #8839ef;
     cursor: pointer;
 }
-
 
 .workspaces {
     display: flex;
@@ -150,38 +149,38 @@ body,
 }
 
 .orange {
-    color: #ffa500;
+    color: #fe640b;
 }
 
 .red {
-    color: #ff4500;
+    color: #e64553;
 }
 
 .green {
-    color: #33ff57;
+    color: #40a02b;
 }
 
 .cpu {
-    color: #1e90ff;
+    color: #1e66f5;
 }
 
 .cpu .high-usage {
-    color: #900029;
+    color: #d20f39;
     animation: flash 0.5s infinite;
 }
 
 .memory {
-    color: violet;
+    color: #8839ef;
 }
 
 .memory .high-usage {
-    color: #900029;
+    color: #d20f39;
     animation: flash 0.5s infinite;
 }
 
 .battery {
     position: relative;
-    /* color: #ffa500; */
+    color: #df8e1d;
 }
 
 .battery .charging-icon {
@@ -193,13 +192,13 @@ body,
 }
 
 .cycle_count {
-    color: lightgreen;
+    color: #40a02b;
 }
 
 .uptime {
-    color: yellow;
+    color: #df8e1d;
 }
 
 .weather {
-    color: yellow;
+    color: #df8e1d;
 }
